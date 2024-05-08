@@ -1,8 +1,12 @@
-View Project:  https://spotify-data-kvhuzqfnutbxuebn4jsdac.streamlit.app/
+## View Live Project
 
-# pip install folium
-# pip install streamlit-folium
+https://spotify-data-science-kanterman.streamlit.app/
+
+## Want to run the app yourself?
+
+###### pip install folium
+###### pip install streamlit-folium
 
 <!-- //Run  -->
-# streamlit run app.py
+###### streamlit run app.py
 
